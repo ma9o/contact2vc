@@ -1,0 +1,9 @@
+{
+  "name": "contact2vc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ma9o/contact2vc",
+  "author": "Giovanni Magoga",
+  "license": "MIT",
+  "private": false
+}
